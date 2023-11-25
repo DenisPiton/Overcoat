@@ -31,6 +31,7 @@ public:
         price = a.price;
     }
 };
+
 int main()
 {
     Overcoat a("coat", 100);
